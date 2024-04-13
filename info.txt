@@ -1,1 +1,7 @@
 Here, I will solve Leetcode problems.
+
+
+268. Missing Number
+41. First Missing Positive
+136. Single Number
+287. Find the Duplicate Number
